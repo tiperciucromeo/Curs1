@@ -1,0 +1,27 @@
+1. Instalati ultima versiune de Android Studio si SDK Android pentru ultima versiune de Android
+
+2. Creati 2-3 emulatoare cu versiuni diferite de Android si setari diferite. Incercati si versiuni noi si versiuni vechi.
+
+3. Creati un proiect simplu in Android studio si rulati-l pe un device propriu(sau mai multe daca aveti) dar si pe emulatoarele create. Observati cum arata, in special pe versiuni mai vechi de android
+
+4. Modificati proiectul creat astfel incat sa nu poata rula pe versiuni de android mai vechi de 6. Incercati sa rulati pe o versiune mai mica. Vedeti rezultatul.
+-commit
+
+
+5. Modificati proiectul astfel incat sa poata rula doar pe tablete de la 7 inch in sus. Incercati sa rulati pe un telefon. Vedeti rezultatul.
+-commit
+
+
+6. Modificati proiectul astfel incat sa ruleze doar pe telefoane. Incercati sa rulati pe o tableta si vedeti rezultatul.
+
+7. Schimbati numele si iconita aplicatiei in ce doriti. Rulati aplicatia si vedeti rezultatul.
+
+8. Creati un nou layout. 
+Adaugati in el un EditText de tip textMultiLine. 
+Acesta sa ocupe toata latimea si toata inaltimea. 
+
+
+Ca si hint vom folosi acest string "Enter text here" din fisierul strings din resurse. 
+Textul va trebui sa fie aliniat in stanga sus. 
+
+9.Ce idei de aplicatii
